@@ -16,6 +16,7 @@ Pour annuler le git add lorsqu'on n'a pas encore commit : git reset
 - git commit -m "message" : pour préparer l'envoir sur github
 - git status : pour checker les fichiers qui vont être envoyés 
 - git push -u origin master : pour envoyer sur le dépot github
+- git pull : pour mettre à jour le dépot en local
 
 ## Fonctionnement de .gitignore :
 
@@ -26,3 +27,7 @@ On utilisera alors : git rm --cached [fichier]
 
 - Pour ignorer tous les fichiers d'un type on utilise *[.type]
 - Pour ignorer tous les fichiers d'un type dans tous les dossiers on utilise **/[.type]
+
+## Large File Storage : 
+
+- [Here is a link](https://git-lfs.github.com/) to install and learn to use the LFS extension
