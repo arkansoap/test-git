@@ -17,7 +17,8 @@ Pour annuler le git add lorsqu'on n'a pas encore commit : git reset
 - git status : pour checker les fichiers qui vont être envoyés 
 - git push -u origin master : pour envoyer sur le dépot github
 - git pull : pour mettre à jour le dépot en local
-
+- git branch "nom_branche" : crée une branche
+- git checkout "nom_branche" : switcher sur la branche
 ## Fonctionnement de .gitignore :
 
 - Inscrire le fichier dans le fichier gitignore pour l'ignorer
