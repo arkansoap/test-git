@@ -1,5 +1,3 @@
-# Dossier test pour ignorer des fichiers dans ce dossier 
+# Dossier test  
 
-T BO TIBO 
-TES UN NANE ALLAN
 
